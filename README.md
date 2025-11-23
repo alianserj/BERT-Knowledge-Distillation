@@ -19,4 +19,4 @@ To replicate the distillation process:
 3. Run the training loop with the defined hyperparameters.
 
 ---
-*Author: Ali Anser Jaffri*
+*Author: Ali Anser Jaffri and Haseeb Tahir*
