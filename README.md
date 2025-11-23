@@ -9,8 +9,8 @@ This project investigates **Attention-Based Knowledge Distillation (KD)** to com
 - **Methodology:** Addressed the "skip" and "search" layer misalignment problems using combinatorial optimization strategies.
 
 ## Files in this Repository
-- `Research_Paper.pdf`: The full mathematical formulation and experimental results.
-- `Model_Training.ipynb`: The Jupyter Notebook containing the training pipeline, loss function implementation, and validation metrics.
+- `DL Final Report _1_.docx`: The full mathematical formulation and experimental results.
+- `kd_pre_attn_results.ipynb`: The Jupyter Notebook containing the training pipeline, loss function implementation, and validation metrics.
 
 ## Usage
 To replicate the distillation process:
