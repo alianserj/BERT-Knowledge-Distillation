@@ -12,11 +12,6 @@ This project investigates **Attention-Based Knowledge Distillation (KD)** to com
 - `DL Final Report _1_.docx`: The full mathematical formulation and experimental results.
 - `kd_pre_attn_results.ipynb`: The Jupyter Notebook containing the training pipeline, loss function implementation, and validation metrics.
 
-## Usage
-To replicate the distillation process:
-1. Open `Model_Training.ipynb`.
-2. Ensure dependencies (PyTorch, Transformers, TextAttack) are installed.
-3. Run the training loop with the defined hyperparameters.
 
 ---
 *Author: Ali Anser Jaffri and Haseeb Tahir*
